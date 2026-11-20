@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TemperatureWidget</string>
+    <string name="loading">Loading temperatures…</string>
+    <string name="refresh">Refresh</string>
+    <string name="updated_at">Updated %1$s</string>
+    <string name="error_loading">Could not load: %1$s</string>
+    <string name="add_widget">Add widget</string>
+    <string name="lock_screen_hint">The widget refreshes every time the screen turns on, every 15 minutes in the background, and when you tap it. On Samsung phones, add it to the lock screen with Good Lock → LockStar → Widgets.</string>
+    <string name="battery_hint">Allow unrestricted battery use, or the phone may stop the widget from refreshing when the screen turns on.</string>
+    <string name="allow_background">Allow background use</string>
+    <string name="service_channel_name">Widget updates</string>
+    <string name="service_notification_title">Keeping the temperature widget up to date</string>
+    <string name="widget_description">Current temperatures from your sensors</string>
+</resources>

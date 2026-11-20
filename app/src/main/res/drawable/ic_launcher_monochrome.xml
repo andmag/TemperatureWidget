@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Single-colour thermometer for themed icons; the launcher picks the colour. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M44.5,36H49.5M47,42H49.5M44.5,48H49.5M47,54H49.5M44.5,60H49.5M47,66H49.5
+            M58.5,36H63.5M58.5,42H61M58.5,48H63.5M58.5,54H61M58.5,60H63.5M58.5,66H61"
+        android:strokeWidth="1.2"
+        android:strokeColor="#FF000000" />
+    <path
+        android:pathData="M51.5,34.5a2.5,2.5 0 0 1 5,0V67"
+        android:strokeWidth="1.4"
+        android:strokeColor="#FF000000" />
+    <path
+        android:pathData="M51.5,34.5V67"
+        android:strokeWidth="1.4"
+        android:strokeColor="#FF000000" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M53,45h2v23h-2zM54,66.5a5.5,5.5 0 1 1 0,11a5.5,5.5 0 1 1 0,-11z" />
+</vector>

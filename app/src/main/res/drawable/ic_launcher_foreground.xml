@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Old-style thermometer: glass tube with a red bulb on a cream plaque with a brass rim. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Plaque -->
+    <path
+        android:fillColor="#FFF4E8CC"
+        android:pathData="M44,25h20a6,6 0 0 1 6,6v46a6,6 0 0 1 -6,6h-20a6,6 0 0 1 -6,-6v-46a6,6 0 0 1 6,-6z"
+        android:strokeWidth="1.6"
+        android:strokeColor="#FFB08D57" />
+    <!-- Brass screw -->
+    <path
+        android:fillColor="#FFB08D57"
+        android:pathData="M54,27.6a1.5,1.5 0 1 1 0,3a1.5,1.5 0 1 1 0,-3z" />
+    <!-- Scale -->
+    <path
+        android:pathData="M44.5,36H49.5M47,39H49.5M44.5,42H49.5M47,45H49.5M44.5,48H49.5M47,51H49.5M44.5,54H49.5M47,57H49.5M44.5,60H49.5M47,63H49.5M44.5,66H49.5
+            M58.5,36H63.5M58.5,39H61M58.5,42H63.5M58.5,45H61M58.5,48H63.5M58.5,51H61M58.5,54H63.5M58.5,57H61M58.5,60H63.5M58.5,63H61M58.5,66H63.5"
+        android:strokeWidth="0.8"
+        android:strokeColor="#FF5D4630" />
+    <!-- Glass tube -->
+    <path
+        android:fillColor="#FFFDFCF7"
+        android:pathData="M51.5,34.5a2.5,2.5 0 0 1 5,0V70h-5z"
+        android:strokeWidth="0.8"
+        android:strokeColor="#FF8C7B63" />
+    <!-- Mercury column -->
+    <path
+        android:fillColor="#FFC62828"
+        android:pathData="M53,47h2v23h-2z" />
+    <!-- Bulb -->
+    <path
+        android:fillColor="#FFC62828"
+        android:pathData="M54,66.5a5.5,5.5 0 1 1 0,11a5.5,5.5 0 1 1 0,-11z"
+        android:strokeWidth="0.8"
+        android:strokeColor="#FF8C1C1C" />
+    <!-- Glass highlights -->
+    <path
+        android:fillColor="#99FFFFFF"
+        android:pathData="M52.2,69.2a1.4,1.4 0 1 1 0,2.8a1.4,1.4 0 1 1 0,-2.8z" />
+    <path
+        android:pathData="M52.3,36V66"
+        android:strokeWidth="0.5"
+        android:strokeColor="#55FFFFFF" />
+</vector>

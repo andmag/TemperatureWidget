@@ -1,0 +1,19 @@
+# Build output
+build/
+.gradle/
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Machine-specific (contains your local SDK path)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+
+# Signing keys - never commit these
+*.jks
+*.keystore
